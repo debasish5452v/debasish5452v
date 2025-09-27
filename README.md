@@ -1,14 +1,12 @@
 # 💫 Hi 👋, I'm Debasish Mahata
 **A passionate Softwre Developer**
 
-Email Me 👉 ✉️ **mahatad800@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Various Full Stack & Computer Vision / ML Project
 - 🌱 **I’m currently learning:** Computer Vision And ML
 - 👯 **I’m looking to collaborate on:** Computer Vision Pollution Check Project
 - 🤔 **I’m looking for help with:** Computer Vision & ML Project
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** mahatad800@gmail.com
+- 📫 **How to reach me:** mahatad800@gmail.com 😊😊
 - 😄 **Pronouns:** Debasish Mahata
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
