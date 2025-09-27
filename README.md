@@ -3,12 +3,10 @@
 
 - 🔭 **I’m currently working on:** Various Full Stack & Computer Vision / ML Project
 - 🌱 **I’m currently learning:** Computer Vision And ML
-- 👯 **I’m looking to collaborate on:** Computer Vision Pollution Check Project
 - 🤔 **I’m looking for help with:** Computer Vision & ML Project
-- 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** mahatad800@gmail.com 😊😊
-- 😄 **Pronouns:** Debasish Mahata
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahi07rutu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debasishmahata07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MahiRutu07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahatad800@gmail.com) 
