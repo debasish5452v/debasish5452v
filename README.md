@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Debasish Mahata
-**A passionate Softwre Developer**
+#  👋 Hi, 🤗 I'm Debasish Mahata
+**A passionatee Developer**
 
 - 🔭 **I’m currently working on:** Various Full Stack & Computer Vision / ML Project
 - 🌱 **I’m currently learning:** Computer Vision And ML
