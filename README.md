@@ -16,9 +16,9 @@
 <a href="https://codepen.io/debasish-mahata-the-typescripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="debasish-mahata-the-typescripter" height="30" width="40" /></a>
 </p>
 
-<br>
 
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debasish5452v&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/> 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=debasish5452v&theme=dark&hide_border=false)
