@@ -1,5 +1,12 @@
-#  👋 Hi, 🤗 I'm Debasish Mahata
-**A passionatee Developer**
+<img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" 
+     width="100%" 
+     height="200px" 
+     style="object-fit: cover;" />
+
+#👋 Hi, 🤗 I'm Debasish Mahata
+**A passionatee Software Developer**
+
+<img align="right" alt="Coding" width="250" src = "https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
 
 - 🔭 **I’m currently working on:** Various Full Stack & Computer Vision / ML Project
 - 🌱 **I’m currently learning:** Computer Vision And ML
