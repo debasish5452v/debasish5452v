@@ -20,7 +20,6 @@
 <a href="https://twitter.com/mahirutu07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahirutu07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debasishmahata07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debasishmahata07" height="30" width="40" /></a>
 <a href="https://instagram.com/mahi07rutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahi07rutu" height="30" width="40" /></a>
-<a href="https://codepen.io/debasish-mahata-the-typescripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="debasish-mahata-the-typescripter" height="30" width="40" /></a>
 </p>
 
 
